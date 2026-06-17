@@ -35,7 +35,7 @@
             <search>
                 <field name="name" />
                 <field name="attribute_id" />
-                <group expand="1" string="Group By">
+                <group>
                     <filter
                         string="Attribute"
                         name="attribute"

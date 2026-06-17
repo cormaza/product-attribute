@@ -37,7 +37,7 @@
                     name="inactive"
                     domain="[('active', '=', False)]"
                 />
-                <group expand="0" string="Group By">
+                <group>
                     <filter
                         string="Pricelist"
                         name="group_by_pricelist"

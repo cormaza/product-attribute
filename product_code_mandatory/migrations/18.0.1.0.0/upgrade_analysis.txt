@@ -1,0 +1,4 @@
+---Models in module 'product_code_mandatory'---
+---Fields in module 'product_code_mandatory'---
+---XML records in module 'product_code_mandatory'---
+---nothing has changed in this module--

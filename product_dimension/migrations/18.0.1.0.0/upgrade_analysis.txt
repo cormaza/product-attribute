@@ -1,0 +1,4 @@
+---Models in module 'product_dimension'---
+---Fields in module 'product_dimension'---
+---XML records in module 'product_dimension'---
+---nothing has changed in this module--

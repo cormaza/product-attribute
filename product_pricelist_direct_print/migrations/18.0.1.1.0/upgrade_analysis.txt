@@ -1,0 +1,4 @@
+---Models in module 'product_pricelist_direct_print'---
+---Fields in module 'product_pricelist_direct_print'---
+---XML records in module 'product_pricelist_direct_print'---
+NEW ir.ui.view: product_pricelist_direct_print.product_pricelist_form_view_inherited

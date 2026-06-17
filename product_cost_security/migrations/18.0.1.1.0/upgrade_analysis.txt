@@ -1,0 +1,5 @@
+---Models in module 'product_cost_security'---
+---Fields in module 'product_cost_security'---
+---XML records in module 'product_cost_security'---
+NEW ir.ui.view: product_cost_security.product_product_tree_view
+NEW ir.ui.view: product_cost_security.product_template_tree_view
